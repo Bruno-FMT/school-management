@@ -5,7 +5,7 @@
 ## - Desenvolvedor 
   - <a href="https://www.linkedin.com/in/bruno-miguel-correa-17904829b/">Bruno Miguel Correa </a>
 
-## Objetivos
+## :) - Objetivos
 
 - [ ] [Ex 1 - Spring Initializer e Repositório no GitHub](#-m1s8-ex-1-spring-initializer-e-repositorio-no-github)
 - [ ] [Ex 2 - Alunos](#-m1s8-ex-2---alunos)
