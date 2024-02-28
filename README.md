@@ -3,4 +3,4 @@
 </div>
 
 ## - Desenvolvedor 
-  - Bruno MIguel Correa <a href="https://www.linkedin.com/in/bruno-miguel-correa-17904829b/">
+  - <a href="https://www.linkedin.com/in/bruno-miguel-correa-17904829b/">Bruno MIguel Correa </a>
