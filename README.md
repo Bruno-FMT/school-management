@@ -1,1 +1,1 @@
-![logo](/images/logo.png)
+![logo](src/main/resources/images/logo.png)
