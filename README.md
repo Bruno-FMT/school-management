@@ -22,7 +22,8 @@
 ### - Descrição:
 
 Crie um projeto Spring para gerenciamento de uma instituição de ensino. <br>
-*Obs:* Fique à vontade para dar o nome do projeto. <br><br>
+**Obs:** Fique à vontade para dar o nome do projeto. <br>
+
 ### **Atenção!** <br>
 
 Não esqueça de utilizar seus commits após o desenvolvimento.
