@@ -1,3 +1,3 @@
 <div align='center'>
-  ![logo](src/main/resources/images/logo.png)
+  <image src="src/main/resources/images/logo.png"/>
 </div>
