@@ -7,8 +7,22 @@
 
 ## Objetivos
 
-- [ ] [Ex 1 - Spring Initializer e repositório no GitHub](#-m1s8-ex1-1---Spring-Initializer)
-- [ ] ][
+- [ ] [Ex 1 - Spring Initializer e Repositório no GitHub](#-m1s8-ex1-1---spring-initializer-e-repositório-no-github)
+- [ ] [Ex 2 - Alunos](#-m1s8-ex-2---alunos)
+- [ ] [Ex 3 - Cursos](#-m1s8-ex-3---cursos)
+- [ ] [Ex 4 - Service: Alunos](#-m1s8-ex-4---service:-alunos)
+- [ ] [Ex 5 - Service: Cursos]
+- [ ] [Ex 6 - Controller: Alunos]
+- [ ] [Ex 7 - Controller: Cursos]
+- [ ] [Ex 8 - Matricular Alunos]
+
+## [M1S8] Ex 1 - Spring Initializer e Repositório no GitHub
+## [M1S8] Ex 2 - Alunos
+## [M1S8] Ex 3 - Cursos
+## [M1S8] Ex 4 - Service: Alunos
+## [M1S8]
+## [M1S8]
+## [M1S8]
 
 
 
@@ -24,7 +38,3 @@
 
 
 
-
-
-## [M1S8] Ex 1 - Spring Initializer
-##
