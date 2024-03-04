@@ -9,7 +9,7 @@
 
 - [x] [Ex 1 - Spring Initializer e Repositório no GitHub](#-m1s8-ex-1-spring-initializer-e-repositorio-no-github)
 - [x] [Ex 2 - Alunos](#-m1s8-ex-2---alunos)
-- [ ] [Ex 3 - Cursos](#-m1s8-ex-3---cursos)
+- [x] [Ex 3 - Cursos](#-m1s8-ex-3---cursos)
 - [ ] [Ex 4 - Service: Alunos](#-m1s8-ex-4---service:-alunos)
 - [ ] [Ex 5 - Service: Cursos]()
 - [ ] [Ex 6 - Controller: Alunos]()

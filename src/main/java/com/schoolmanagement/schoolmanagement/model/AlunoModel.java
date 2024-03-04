@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.Setter;
 
 @Data
-public class Aluno {
+public class AlunoModel {
 
     @Setter(AccessLevel.NONE) private static int id;
     private String nome;
