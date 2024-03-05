@@ -14,8 +14,8 @@ public class AlunoService {
         return null;
     }
 
-    public void consultar(){
-        AlunoModel.listarAlunos();
+    public static ArrayList<AlunoModel> consultar(){
+        return AlunoModel.listarAlunos();
     }
 
     public static boolean autenticar(AlunoModel aluno) throws Exception {
