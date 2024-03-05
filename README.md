@@ -12,7 +12,7 @@
 - [x] [Ex 3 - Cursos](#-m1s8-ex-3---cursos)
 - [x] [Ex 4 - Service: Alunos](#-m1s8-ex-4---service:-alunos)
 - [x] [Ex 5 - Service: Cursos]()
-- [ ] [Ex 6 - Controller: Alunos]()
+- [x] [Ex 6 - Controller: Alunos]()
 - [ ] [Ex 7 - Controller: Cursos]()
 - [ ] [Ex 8 - Matricular Alunos]()
 

@@ -31,15 +31,7 @@ public class AlunoModel {
         return aluno;
     }
 
-    public static void listarAlunos(){
-        for ( AlunoModel aluno : listaAlunos){
-            System.out.printf(
-                    "| %03d | %-30s | %-11s | %-20s |",
-                    aluno.id,
-                    aluno.getNome(),
-                    aluno.getData_nascimento(),
-                    aluno.getNaturalidade()
-            );
-        }
+    public static ArrayList<AlunoModel> listarAlunos(){
+        return listaAlunos;
     }
 }
