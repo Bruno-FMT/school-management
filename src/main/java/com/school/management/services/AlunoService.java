@@ -27,4 +27,8 @@ public class AlunoService {
         return AlunoModel.getListaAlunos();
     }
 
+    public AlunoModel listarPorId(Integer id) throws Exception {
+        return AlunoModel.buscarPorId(id);
+    }
+
 }
